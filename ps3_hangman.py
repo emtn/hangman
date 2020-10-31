@@ -1,6 +1,5 @@
 # Hangman game
 #
-# hgeee
 # -----------------------------------
 # Helper code
 # You don't need to understand this helper code,
@@ -9,7 +8,7 @@
 
 import random
 
-WORDLIST_FILENAME = "C:/Users/Angel/Desktop/Python programs/words.txt"
+WORDLIST_FILENAME = "words.txt"
 
 def loadWords():
     """
