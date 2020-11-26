@@ -6,6 +6,8 @@
 # but you will have to know how to use the functions
 # (so be sure to read the docstrings!)
 
+
+# import for laptop
 import random
 
 WORDLIST_FILENAME = "words.txt"
